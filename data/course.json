@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e3601c6b-279c-5a90-a17a-5323ca46774e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Organizational Leadership and Change",
+  "course_description": "_15.317 Organizational Leadership and Change_ focuses on practical experience that blends theory and practice. Students reflect on prior leadership experiences and then apply lessons learned to further develop their leadership capabilities. The course requires active participation in all leadership classes and/or activities as well as short deliverables throughout the program.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.317",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
